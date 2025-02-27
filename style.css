@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background: url('https://github.com/taffazzel/connecttaffazzel/blob/main/data-engineering-bg.jpg') no-repeat center center/cover;
+    background: url('https://taffazzel.github.io/my-profile-website/data-engineering-bg.jpg') no-repeat center center/cover;
     color: white;
     animation: fadeInBackground 2s ease-in-out;
 }
