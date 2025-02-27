@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #2A2A72;
+    --secondary-color: #009FFD;
+    --accent-color: #F76C6C;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.navbar {
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+}
+
+.footer {
+    background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    padding: 20px 0;
+}
+
+/* Add all other styles from previous examples */
